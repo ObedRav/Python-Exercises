@@ -1,5 +1,7 @@
 #Exercise here ("https://drive.google.com/file/d/1OtYBpjBehrMW5GQshdjj9vEmfXRuZ6xu/view?usp=sharing")
 
+from string import ascii_uppercase as alfabeto
+
 def encriptador(mensaje):
     letters = list(mensaje)
     unique = set(letters)

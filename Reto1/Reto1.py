@@ -1,3 +1,5 @@
+#Exercise here ("https://drive.google.com/file/d/16jjJWCNVNzK5SYhDs5wFArp2NkEJ5uNN/view?usp=sharing")
+
 def solucion(b,n):
     cantidad_intentada = 0
     i = True

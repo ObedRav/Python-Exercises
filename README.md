@@ -1,2 +1,2 @@
 # Python-s-Exercise
-Different exercise in python
+Differents exercises on python
